@@ -137,16 +137,6 @@ Output
 
 ---
 
-## Requirements
-
-Install dependencies before running the notebooks.
-
-```bash
-pip install -r requirements.txt
-
-## Future Extension
-
-This Starter Kit focuses on dataset understanding and baseline model discovery.
 
 It can be extended with:
 
